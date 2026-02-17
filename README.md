@@ -1,19 +1,15 @@
-# flutter_application_1
+# BABYSHOPHUB
 
-A new Flutter project.
+BabyShopHub 🍼🛒
 
-## Getting Started
+BabyShopHub is a modern, mobile-first Flutter e-commerce app designed for buying baby products with ease. It leverages Firebase Firestore for storing products and orders, 
+and Firebase Authentication for secure user login.
 
-This project is a starting point for a Flutter application.
+The app includes full shopping functionality: users can browse products, add them to the cart, save favorites, place orders, and simulate payments.
+An admin panel allows admin users to manage products, orders, and users efficiently. Built with Provider for smooth state management, it’s responsive 
+and works well on both mobile and desktop.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 admin panel: Teamapp@gmail.com
 password: sharmeen12345
